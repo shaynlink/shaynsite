@@ -1,0 +1,25 @@
+{
+    "home": {
+        "navbar": {
+            "projects": "projets",
+            "apis": "apis",
+            "blog": "blog",
+            "contact": "contact",
+            "support": "support"
+        },
+        "title": "Bienvenue handsome !",
+        "description": "Qui suis je ?",
+        "textDescription1": "Je m'appel Rayane G. {{birthYear}} ans et je vie en France, J'ai commencé la programmation il y a 6+ ans",
+        "textDescription2": "Je suis maintenant web developpeur et expert JavaScript, je crée des sites, des projets open-source (comme des library wrapper).",
+        "textDescription3": "J'adore programmer, c'est pourquoi la plus part de mes projets sont gratuit et open-source.",
+        "textDescription4": "J'essaie de faire une version premium sur certain de mes projets pour me permettre d'en vivre, de continuer de les maintenirs",
+        "textDescription5": "et créer d'autre projets",
+        "textDescription6": "99% des projets sont sous la license MIT, ça vous permet de faire la plus part des choses que vous voulez, comme reprendre le projet ou de le commercialiser.",
+        "textDescription7": "Si vous aimer mes projets vous pouvez me supporter sur",
+        "textDescription8": "en ajoutant des likes ou s'abonner gratuitement, ou avec",
+        "cards": {
+            "github": "Github personnel, vous pouvez trouver tous mes projets et leur code source",
+            "patreon": "Vous pouvez me supporter financièrement mensuellement sur Patreon."
+        }
+    }
+}
